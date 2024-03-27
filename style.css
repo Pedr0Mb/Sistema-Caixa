@@ -1,0 +1,50 @@
+.titulo{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    color: #F2A413;
+}
+.buta{
+    margin-top: 40px;
+    margin-bottom: 20px;
+    background-color: #F2A413;
+    border: none;
+    width: 200px;
+    height: 50px;
+    border-radius: 5%;
+    font-size: large;
+    font-weight: bold;
+    color: #8C5007;
+}
+.site{
+    background-color:#F9F8F6 ;
+    color: black;
+}
+.form-group{
+    margin: 20px;
+}
+.fundo{
+    background-color: #F2F2F2;
+}   
+.SubTitulo{
+margin-bottom: 10px;
+font-size:medium;
+font-weight: bold; 
+}
+.form-control{
+    height: 50px;
+    background-color:#F2F2F2 ;
+    border:solid 1px #F2A413;
+}
+.formulario{
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom: 25px;
+}
+.Inferior{
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        margin-bottom: 30px;
+        color: #F2A413;
+}
